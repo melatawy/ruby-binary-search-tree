@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
 	s.name			= 'bst'
-	s.version		= '0.0.1'
+	s.version		= '0.0.2'
 	s.date			= '2015-05-03'
 	s.summary		= "Implementation for Binary Search Tree"
 	s.description	= "An out of the box implementation of binary search tree"
