@@ -1,4 +1,4 @@
-require_relative 'node'
+require_relative 'bst/node'
 class BST
 	
 	attr_accessor :head
