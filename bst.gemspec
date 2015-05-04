@@ -7,7 +7,6 @@ Gem::Specification.new do |s|
 	s.authors		= ["Maher El-Atawy"]
 	s.email			= 'maher.atawy@accorpa.com'
 	s.files			= ["lib/bst.rb","lib/node.rb"]
-	s.homepage		=
-		'http://rubygems.org/gems/hola'
+	s.homepage		= 'http://rubygems.org/gems/bst'
 	s.license		= 'MIT'
 end
